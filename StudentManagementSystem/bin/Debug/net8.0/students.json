@@ -1,0 +1,36 @@
+[
+  {
+    "FirstName": "Jubair",
+    "MiddleName": "Ahmed",
+    "LastName": "Khan",
+    "StudentId": "123-789-456",
+    "JoiningBatch": "Winter",
+    "Department": 1,
+    "Degree": 1,
+    "AttendedCourse": [],
+    "SemestersAttended": []
+  },
+  {
+    "FirstName": "Jubair",
+    "MiddleName": "Ahmed",
+    "LastName": "Khan",
+    "StudentId": "123-456-769",
+    "JoiningBatch": "Winter",
+    "Department": 1,
+    "Degree": 1,
+    "AttendedCourse": [
+      {
+        "CourseId": "CSE 101",
+        "CourseName": "C Programming",
+        "InstructorName": "Prof. Nasir",
+        "NumberOfCredits": 3.5
+      }
+    ],
+    "SemestersAttended": [
+      {
+        "SemesterCode": 1,
+        "Year": "2020"
+      }
+    ]
+  }
+]
